@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>HyperTileMac</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Tue, 10 Nov 2026 13:44:31 +0530</pubDate>
+            <sparkle:version>202611101343</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## HyperTile 0.3.0
+
+The first public release.
+
+- Tiles every window automatically, in Grid, Columns, Rows or Side layouts
+- Optional virtual desktops, with a four-finger swipe between them
+- Keyboard shortcuts to swap, focus, float and resize windows
+- Windows with a minimum or fixed size get room in the layout
+- Picks up trackpads connected after launch, and after sleep
+- Uses less energy when nothing on screen changes
+- Offers to move itself to Applications
+- Licence activation in the welcome tour and Settings → Licence
+]]></description>
+            <enclosure url="https://chethankumar.github.io/HyperTile/HyperTile-0.3.0.zip" length="3304490" type="application/octet-stream" sparkle:edSignature="bz/iQquya0hGfU2PPuxb7Q0r106BXWPJHDJ5uQwFnjFEYAj6YXM1hpLKktT8usZPPBtNZfBaEzuM+pacx9PoCg=="/>
+        </item>
+    </channel>
+</rss>
